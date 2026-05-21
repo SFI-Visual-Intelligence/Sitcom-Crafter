@@ -1,3 +1,5 @@
+Paper: Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes ([Link](https://api.nva.unit.no/publication/01999405efc0-d62543f9-e39b-4526-82a6-9fbdbf6b88a7))
+
 <div align="center">
 
 <h1><a href="https://arxiv.org/abs/2410.10790">Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes</a></h1>
